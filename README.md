@@ -1,2 +1,3 @@
 # Computer-Vision
-COMP558
+
+Image filtering, edge detection, image features and histograms, etc.
